@@ -56,10 +56,10 @@
     </tr>
   </tbody>
 </table>
-
+<br>
  
  ***
-  
+<br>  
    
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeraAtwater/LeraAtwater) &nbsp; &nbsp;&nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/leraatwater) &nbsp; &nbsp; &nbsp; &nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/LeraAtwater/)  &nbsp; &nbsp;&nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@LeraAtwater) &nbsp; &nbsp; &nbsp; &nbsp;
