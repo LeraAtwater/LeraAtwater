@@ -8,16 +8,19 @@
 
 👯 I'm looking to collaborate on Drupal 8 and 9 projects 
 
-💬 Ask me about Website accessibility 
+💬 Ask me about website accessibility 
 
-### 📫 How to reach me: lera.atwater@gmail.com 
+### 📫 How to reach me
 
-### ⚡ Fun facts: 
+* Email: lera.atwater@gmail.com 
+* LinkedIn: https://www.linkedin.com/in/leraatwater/
+
+### ⚡ Fun facts 
 
 * I'm a certified Stress & Rescue diver
 * I did two tours in the Peace Corps
 
-
+<br>
 
 <table>
   <tbody>
@@ -58,4 +61,6 @@
  ***
   
    
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeraAtwater/LeraAtwater)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/leraatwater)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/LeraAtwater/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@LeraAtwater)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1836943/leraa)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://leraatwater.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeraAtwater/LeraAtwater) &nbsp; &nbsp;&nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/leraatwater) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/LeraAtwater/)  &nbsp; &nbsp;&nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@LeraAtwater) &nbsp; &nbsp; &nbsp; &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1836943/leraa) &nbsp; &nbsp;&nbsp; &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://leraatwater.com/)  
