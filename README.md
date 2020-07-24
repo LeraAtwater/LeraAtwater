@@ -1,62 +1,65 @@
-### Hi there 👋, my name is Lera
-#### I am Web Developer and Agile practioner
-I made this project just for fun.
+# Hi there, I'm Lera 👋
+## I am a Web Developer and Agile practioner
 
 
-🔭 I’m currently working on the [Early Childhood Learning and Knowledge Center](https://eclkc.ohs.acf.hhs.gov/ "Go to the website")
+🔭 I work on the [Early Childhood Learning and Knowledge Center](https://eclkc.ohs.acf.hhs.gov/ "Go to the website")
 
-🌱 I’m currently learning custom module construction 
+🌱 I'm currently learning custom module construction 
 
-👯 I’m looking to collaborate on Drupal 8 and 9 projects 
+👯 I'm looking to collaborate on Drupal 8 and 9 projects 
 
 💬 Ask me about Website accessibility 
 
-📫 How to reach me: lera.atwater@gmail.com 
+### 📫 How to reach me: lera.atwater@gmail.com 
 
-⚡ Fun fact: I love diving 
+### ⚡ Fun facts: 
+
+* I'm a certified Stress & Rescue diver
+* I did two tours in the Peace Corps
+
 
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center"><span>HTML5</span><br>
+      <td width="25%" align="center"><h3>HTML5</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/html-5.svg" height="64px"></td>
-      <td width="25%" align="center"><span>CSS3</span><br>
+      <td width="25%" align="center"><h3>CSS3</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/css-3.svg" height="64px"></td>
-      <td width="25%" align="center"><span>JavaScript</span><br>
+      <td width="25%" align="center"><h3>JavaScript</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/javascript.svg" height="64px"></td>
-      <td width="25%" align="center"><span>PHP</span><br>
+      <td width="25%" align="center"><h3>PHP</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/php.svg" height="64px"></td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center"><span>Drupal</span><br>
+      <td width="25%" align="center"><h3>Drupal</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/drupal.svg" height="64px"></td>
-      <td width="25%" align="center"><span>Bootstrap</span><br>
+      <td width="25%" align="center"><h3>Bootstrap</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="64px"></td>
-      <td width="25%" align="center"><span>Less</span><br>
+      <td width="25%" align="center"><h3>Less</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/less.svg" height="64px"></td>
-      <td width="25%" align="center"><span>Sass</span><br>
+      <td width="25%" align="center"><h3>Sass</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/sass.svg" height="64px"></td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center"><span>Git</span><br>
+      <td width="25%" align="center"><h3>Git</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="64px"></td>
-      <td width="25%" align="center"><span>VS Code</span><br>
+      <td width="25%" align="center"><h3>VS Code</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="64px"></td>
-      <td width="25%" align="center"><span>Docker</span><br>
+      <td width="25%" align="center"><h3>Docker</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="64px"></td>
-      <td width="25%" align="center"><span>Gulp</span><br>
+      <td width="25%" align="center"><h3>Gulp</h3><br>
         <br>
         <img src="https://cdn.svgporn.com/logos/gulp.svg" height="64px"></td>
     </tr>
