@@ -13,7 +13,8 @@
 ### 📫 How to reach me
 
 * Email: lera.atwater@gmail.com 
-* LinkedIn: https://www.linkedin.com/in/leraatwater/
+* LinkedIn: https://www.linkedin.com/in/leraatwater
+* Website: https://leraatwater.com
 
 ### ⚡ Fun facts 
 
