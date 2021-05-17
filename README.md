@@ -1,5 +1,5 @@
 # Hi there, I'm Lera 👋
-## I am a Web Developer and Agile practioner
+## I am a Web Developer and Agile practitioner
 
 
 🔭 I work on the [Early Childhood Learning and Knowledge Center](https://eclkc.ohs.acf.hhs.gov/ "Go to the website")
