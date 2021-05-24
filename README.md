@@ -38,12 +38,12 @@
     <tr valign="top">
       <td width="25%" align="center"><h3>Drupal</h3><br>
         <img src="https://cdn.svgporn.com/logos/drupal.svg" height="64px"></td>
-      <td width="25%" align="center"><h3>Bootstrap</h3><br>
-        <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="64px"></td>
-      <td width="25%" align="center"><h3>Less</h3><br>
-        <img src="https://cdn.svgporn.com/logos/less.svg" height="64px"></td>
-      <td width="25%" align="center"><h3>Sass</h3><br>
-        <img src="https://cdn.svgporn.com/logos/sass.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>Composer</h3><br>
+        <img src="https://cdn.svgporn.com/logos/composer.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>AWS</h3><br>
+        <img src="https://cdn.svgporn.com/logos/aws.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>Google Cloud</h3><br>
+        <img src="https://cdn.svgporn.com/logos/google-cloud.svg" height="64px"></td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center"><h3>Git</h3><br>
@@ -54,6 +54,16 @@
         <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Gulp</h3><br>
         <img src="https://cdn.svgporn.com/logos/gulp.svg" height="64px"></td>
+    </tr>    
+    <tr valign="top">
+      <td width="25%" align="center"><h3>Bootstrap</h3><br>
+        <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>Less</h3><br>
+        <img src="https://cdn.svgporn.com/logos/less.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>Sass</h3><br>
+        <img src="https://cdn.svgporn.com/logos/sass.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>Raspberry Pi</h3><br>
+        <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" height="64px"></td>
     </tr>
   </tbody>
 </table>
