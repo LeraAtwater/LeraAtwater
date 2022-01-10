@@ -57,7 +57,7 @@
     </tr>    
     <tr valign="top">
       <td width="25%" align="center"><h3>Laravel</h3><br>
-        <img src="https://designsystem.digital.gov/img/uswds-logo/lg-black.png" height="64px"></td>      
+        <img src="https://cdn.svgporn.com/logos/laravel.svg" height="64px"></td>      
       <td width="25%" align="center"><h3>React</h3><br>
         <img src="https://cdn.svgporn.com/logos/react.svg" height="64px"></td>
       <td width="25%" align="center"><h3>USWDS</h3><br>
