@@ -1,12 +1,12 @@
 # Hi there, I'm Lera 👋
-## I am a Web Developer and Agile practitioner
+## I am a Web Engineer and Agile practitioner
 
 
-🔭 I work on the [Early Childhood Learning and Knowledge Center](https://eclkc.ohs.acf.hhs.gov/ "Go to the website")
+🔭 I work for ICF International, building custom websites for the US Government
 
-🌱 I'm currently learning custom module construction 
+🌱 I worked on the [Early Childhood Learning and Knowledge Center](https://eclkc.ohs.acf.hhs.gov/ "Go to the website")
 
-👯 I'm looking to collaborate on Drupal 8 and 9 projects 
+👯 I'm looking to collaborate on Drupal 9 and 10 projects 
 
 💬 Ask me about website accessibility 
 
