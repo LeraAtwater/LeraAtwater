@@ -48,30 +48,30 @@
     <tr valign="top">
       <td width="25%" align="center"><h3>Laravel</h3><br>
         <img src="https://cdn.svgporn.com/logos/laravel.svg" height="64px"></td>      
+      <td width="25%" align="center"><h3>Twig</h3><br>
+        <img src="https://cdn.svgporn.com/logos/thymeleaf-icon.svg" height="64px"></td>
       <td width="25%" align="center"><h3>React</h3><br>
         <img src="https://cdn.svgporn.com/logos/react.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>Git</h3><br>
+        <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="64px"></td>
+    </tr>    
+    <tr valign="top">
       <td width="25%" align="center"><h3>USWDS</h3><br>
         <img src="https://designsystem.digital.gov/assets/img/uswds-logo/4c-lg-on-black.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Bootstrap</h3><br>
         <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="64px"></td>
-    </tr>    
-    <tr valign="top">
-      <td width="25%" align="center"><h3>Git</h3><br>
-        <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="64px"></td>
-      <td width="25%" align="center"><h3>VS Code</h3><br>
-        <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Docker</h3><br>
         <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Gulp</h3><br>
         <img src="https://cdn.svgporn.com/logos/gulp.svg" height="64px"></td>
     </tr>    
     <tr valign="top">
-      <td width="25%" align="center"><h3>Twig</h3><br>
-        <img src="https://cdn.svgporn.com/logos/thymeleaf-icon.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Sass</h3><br>
         <img src="https://cdn.svgporn.com/logos/sass.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Less</h3><br>
         <img src="https://cdn.svgporn.com/logos/less.svg" height="64px"></td>
+      <td width="25%" align="center"><h3>VS Code</h3><br>
+        <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Raspberry Pi</h3><br>
         <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" height="64px"></td>
     </tr>
