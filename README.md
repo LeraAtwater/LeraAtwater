@@ -66,6 +66,8 @@
         <img src="https://cdn.svgporn.com/logos/gulp.svg" height="64px"></td>
     </tr>    
     <tr valign="top">
+      <td width="25%" align="center"><h3>Twig</h3><br>
+        <img src="https://cdn.svgporn.com/logos/thymeleaf-icon.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Sass</h3><br>
         <img src="https://cdn.svgporn.com/logos/sass.svg" height="64px"></td>
       <td width="25%" align="center"><h3>Less</h3><br>
